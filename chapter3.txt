@@ -1,1 +1,1 @@
-this is chapter 3 of git
+this is changed chapter 3 of git
