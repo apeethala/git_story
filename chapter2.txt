@@ -1,1 +1,1 @@
-this is chapter 2 of git
+this is chapter 2 of git and for forking
